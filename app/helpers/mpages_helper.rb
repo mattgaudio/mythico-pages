@@ -1,0 +1,2 @@
+module MpagesHelper
+end

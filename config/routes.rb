@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  get 'mpages/trident'
+  get 'mpages/magnifico'
+  get 'mpages/frontier'
+  get 'mpages/veritus'
   get 'mythico_pages/trident'
   get 'mythico_pages/magnifico'
   get 'mythico_pages/frontier'
